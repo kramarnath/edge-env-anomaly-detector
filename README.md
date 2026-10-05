@@ -401,14 +401,20 @@ These values represent the maximum observed absolute change between consecutive 
 ---
 
 ## KiCad Schematic
-
-![KiCad Schematic](docs/pcb//schematic.jpg)
+<table>
+  <tr>
+    <td align="center"><img src="docs/pcb//schematic.jpg" alt="Schematic" height="200"/></td>
+  </tr>
+</table>
 
 ---
 
 ## KiCad PCB Layout
-
-![KiCad PCB Layout](docs/pcb/pcb.png)
+<table>
+  <tr>
+    <td align="center"><img src="docs/pcb/pcb.png" alt="PCB Layout" height="200"/></td>
+  </tr>
+</table>
 
 ---
 
