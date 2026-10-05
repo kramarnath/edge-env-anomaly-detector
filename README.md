@@ -18,12 +18,6 @@ The statistical thresholds (`μ ± 3σ` and maximum rate-of-change) implemented 
 
 ---
 
-## System Overview (Working Demo)
-
-![Working Demo]("docs\prototype\working.gif")
-
----
-
 ## 📁 Project Structure
 
 ```text
@@ -73,7 +67,7 @@ The system was initially prototyped using an ESP32 development board. The protot
 
 ## Prototype Operation Demo
 
-![ESP32 Prototype GIF]("docs/prototype/working.gif")
+![Working Demo Preview](docs/prototype/working.gif)
 
 ---
 
